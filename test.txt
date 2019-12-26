@@ -1,0 +1,6 @@
+Test1=first
+Test2=second
+Test3=third
+MODIFIED 1
+MODIFIED 2 - YWEEEEEEEEEE
+JAVA TEST
